@@ -64,3 +64,10 @@ _______________________
 
 The command fails because the local copy has differences in the file that dont match the online version.
 _______________________
+
+The online copy was copied onto the local version of README.md
+_______________________
+
+.  ..  .git  .gitignore  README.md
+_______________________
+
